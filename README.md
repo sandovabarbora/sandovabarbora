@@ -9,5 +9,3 @@ data and code at **[bsandova.com](https://bsandova.com)**.
 - [Pop, measured](https://bsandova.com/texts/pop-measured): five artists, the same questions, and what they say together
 - [Persistence](https://bsandova.com/texts/thesis): master's thesis on Prague transport delays
 - Player pool atlases: [football](https://github.com/sandovabarbora/czefootball-player-pool-atlas) · [hockey](https://github.com/sandovabarbora/czehockey-player-pool-atlas)
-
-**Tools:** [sitewitness](https://github.com/sandovabarbora/sitewitness) · [quotecheck](https://github.com/sandovabarbora/quotecheck) · [cutover](https://github.com/sandovabarbora/cutover) · [quaesitor-zero](https://github.com/sandovabarbora/quaesitor-zero)
